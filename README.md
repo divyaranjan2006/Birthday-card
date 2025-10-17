@@ -1,2 +1,2 @@
 # Birthday-card
-this is a birthday card code
+this is a birthday card
